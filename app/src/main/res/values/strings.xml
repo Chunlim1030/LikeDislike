@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LikeDislike</string>
+    <string name="like">like</string>
+    <string name="dislike">dislike</string>
+</resources>
